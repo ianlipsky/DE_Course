@@ -8,3 +8,5 @@ wheels/
 
 # Virtual environments
 .venv
+
+/de_course/simple_assignment_scripts.py
