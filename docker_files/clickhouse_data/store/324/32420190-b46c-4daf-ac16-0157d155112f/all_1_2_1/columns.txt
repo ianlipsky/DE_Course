@@ -1,0 +1,6 @@
+columns format version: 1
+4 columns:
+`date_sale` Date
+`product_id` UInt32
+`total_quantity` AggregateFunction(sum, UInt32)
+`total_cost` AggregateFunction(sum, Float64)

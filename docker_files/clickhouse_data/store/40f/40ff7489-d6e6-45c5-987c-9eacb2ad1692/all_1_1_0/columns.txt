@@ -1,0 +1,7 @@
+columns format version: 1
+5 columns:
+`date` Date
+`product` String
+`quantity` UInt32
+`price` Float32
+`order_id` UInt32
